@@ -14,7 +14,6 @@ AB_OTA_PARTITIONS += \
     hyp \
     keymaster \
     logo \
-    modem \
     prov \
     qupfw \
     shrm \
